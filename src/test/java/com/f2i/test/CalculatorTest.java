@@ -3,11 +3,11 @@ package com.f2i.test;
 import org.junit.Assert;
 import org.junit.Test;
 
-import com.f2i.calculator;
+import com.f2i.Calculator;
 
-public class calculator_test {
+public class CalculatorTest {
 
-	calculator c = new calculator();
+	Calculator c = new Calculator();
 	
 	@Test
 	public void addTest() {
